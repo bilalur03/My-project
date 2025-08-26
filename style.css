@@ -12,7 +12,7 @@ body {
 }
 
 .main {
-    background-image: url('bg.jpg');
+    background-image: url('assets/images/bg.jpg');
     background-position: center center;
     /*In response also the img should not shrink(halejani) */
     background-size: max(1200px, 100vw);
@@ -434,3 +434,4 @@ footer {
     }
 
 }
+
